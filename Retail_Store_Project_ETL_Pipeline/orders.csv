@@ -1,9 +1,0 @@
-Order_ID,Customer_ID,Order_Date,Delivery_Date,Payment_Method,Discount_Percent,Status
-ORD001,C001,2024-01-05,2024-01-08,UPI,10,Delivered
-ORD002,C002,2024-01-10,,Credit Card,0,Pending
-ORD003,C004,2024-01-15,2024-01-18,Cash,15,Delivered
-ORD004,C005,2024-02-01,2024-02-05,UPI,5,Delivered
-ORD005,C007,2024-02-10,2024-02-13,Debit Card,0,Delivered
-ORD006,C008,2024-03-01,,Credit Card,20,Cancelled
-ORD007,C003,2024-03-05,2024-03-08,UPI,0,Delivered
-ORD008,C006,2024-03-15,2024-03-18,Cash,10,Delivered
