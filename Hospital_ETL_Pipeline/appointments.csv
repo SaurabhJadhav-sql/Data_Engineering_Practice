@@ -1,9 +1,0 @@
-Appointment_ID,Patient_ID,Doctor_ID,Appointment_Date,Status,Payment_Mode
-A001,P001,D101,2024-01-10,Completed,UPI
-A002,P002,D102,2024-01-12,Cancelled,Cash
-A003,P003,D103,2024-01-15,Completed,Credit Card
-A004,P004,D104,2024-02-01,Pending,UPI
-A005,P005,D101,2024-02-05,Completed,Cash
-A006,P006,D105,2024-02-10,Completed,
-A007,P007,D102,2024-03-01,Completed,Credit Card
-A008,P008,D106,2024-03-05,Pending,UPI

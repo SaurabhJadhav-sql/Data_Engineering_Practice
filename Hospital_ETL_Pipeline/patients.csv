@@ -1,9 +1,0 @@
-Patient_ID,Patient_Name,Age,Gender,City,Blood_Group,Insurance_Status
-P001,Rahul Sharma,28,Male,Pune,B+,Active
-P002,Priya Verma,34,Female,Mumbai,A+,Inactive
-P003,Amit Kumar,45,Male,Delhi,O+,
-P004,Sneha Patil,22,Female,Pune,AB+,Active
-P005,Ravi Singh,55,Male,Bangalore,B-,Active
-P006,Neha Joshi,31,Female,Mumbai,O+,Inactive
-P007,Karan Mehta,40,Male,Delhi,A-,
-P008,Anjali Nair,27,Female,Chennai,B+,Active
