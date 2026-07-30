@@ -147,4 +147,3 @@ The pipeline produces a merged, analytics-ready table with columns including:
 
 **Saurabh Jadhav**
 Data Engineering enthusiast | BCA Student
-[GitHub](https://github.com/SaurabhJadhav-sql)
